@@ -1,0 +1,8 @@
+sqlite3
+ipython-sql
+prettytable
+flask
+flask_cors
+pymongo
+dotenv
+requests

@@ -1,0 +1,23 @@
+.searchbar {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+    border: 2px;
+    border-color: aquamarine;
+}
+
+select, input {
+    width: 300px;
+    font-size: medium;
+    font-weight: 500;
+    border-radius: 5%;
+    border-width: 3px;
+}
+
+button {
+    font-size: medium;
+    font-weight: 500;
+    background-color: rgba(252, 215, 114, 0.11);
+}

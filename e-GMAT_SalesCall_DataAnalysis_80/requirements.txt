@@ -1,0 +1,14 @@
+json
+pandas
+numpy
+re
+transformers
+torch
+spacy
+matplotlib
+seaborn
+datasets
+sklearn
+yake
+csv
+tqdm
