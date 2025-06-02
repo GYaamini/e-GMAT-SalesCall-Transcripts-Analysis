@@ -85,14 +85,14 @@
 ---
 ## Setup & Run
 
-1. Clone the repository:
+1. Clone the repository
+2. Navigate to the project directory
 
    ```bash
-   git clone https://github.com/your-user/e-GMAT-Sales-Call-Analysis.git
-   cd e-GMAT-Sales-Call-Analysis
+   cd e-GMAT-SalesCall-Transcripts-Analysis
    ```
 
-2. **Frontend Setup**:
+3. Frontend Setup
 
    ```bash
    cd frontend
@@ -100,12 +100,12 @@
    npm run dev
    ```
 
-3. **Backend Setup**:
+4. Backend Setup
 
    ```bash
    cd ../backend
    python3 -m venv venv
-   source venv/bin/activate   # Windows: venv\Scripts\activate
+   venv\Scripts\activate   ## on MacOS and Linux : source venv/bin/activate
    pip install -r requirements.txt
    flask run
    ```
