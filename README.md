@@ -20,11 +20,11 @@
 # ✨ Features
 
 * **Speaker Classification**: Transformer-based segmentation of agent vs prospect
-* **Emotion & Engagement Analysis**: Multilabel emotion detection using BERT (GoEmotions)
+* **Emotion & Engagement Detection**: Multilabel emotion detection using BERT (GoEmotions)
 * **Heuristic Phase Detection**: Segment calls into Planning, Product Explanation, Q\&A, etc.
 * **Keyword & Entity Extraction**: Using YAKE and SpaCy NER for contextual insights
 * **Conversion Hypothesis Testing**: Statistical and anecdotal validation of success factors
-* **Dashboard with Conversion Heatmaps**: Phase-wise analysis, conversion likelihoods, demographics
+* **Conversion Likelihood Visualization**: Phase-wise analysis, demographics alongs with emotion and enagagement levels analysis
 * **Multi-Model LLM Strategy**: Smart routing across Claude, DeepSeek, Mistral, and LLaMA
 * **File-Caching LLM Outputs**: Query- and call-based cache to minimize latency and cost
 
