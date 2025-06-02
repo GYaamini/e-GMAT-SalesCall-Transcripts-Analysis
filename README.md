@@ -37,7 +37,8 @@
 ✔ Positive emotions during Q&A & wrap-up phases = higher conversion
 ✔ Prospect determination during performance talks = better outcome
 ✔ Agent confidence and clarity during explanation & pricing = key
-✔ Balanced speaking ratio, prospect engagement = critical
+✔ Prospect low stress and confusion during price discussion = critical
+✔ Balanced speaking ratio, prospect engagement = moderate
 ```
 
 ## Findings
